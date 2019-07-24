@@ -1,5 +1,7 @@
-[
-    ["1.2.3.4", 1234, "KOTH RHS", true, 15],
-    ["5.6.7.8", 2345, "Arma 3 Lifer's dream", false, 22],
-    ["10.0.0.1", 8888, "Greg's vanilla server", false, 0]
-]
+{ 
+    servers: [
+        ["1.2.3.4", 1234, "KOTH RHS", true, 15],
+        ["5.6.7.8", 2345, "Arma 3 Lifer's dream", false, 22],
+        ["10.0.0.1", 8888, "Greg's vanilla server", false, 0]
+    ]
+}
