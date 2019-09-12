@@ -1,29 +1,9 @@
 { 
-    "servers": [
-        ["1.2.3.4", 1234, "KOTH RHS", true, 15],
-        ["5.6.7.8", 2345, "Arma 3 Lifer's dream", false, 22],
-        ["10.0.0.1", 8888, "Greg's vanilla server", false, 0]
-    ],
-    "all": [
-        ["85.190.155.159", 2302, "[ OFFICIAL ] Arma 3 CP by Bohemia Interactive (EU) #01", false, [1,12], "Combat Patrol"],
-        ["158.69.25.159", 2302, "[ OFFICIAL ] Arma 3 Zeus by Bohemia Interactive (USA) #02", false, [32,50], "Zeus 48+2 Master Stratis"],
-        ["85.190.155.168", 2302, "[ OFFICIAL ] Arma 3 GM TvT by Bohemia Interactive (EU) #A", false, [1,12], "Combat Patrol"],
-        ["85.190.155.168", 2402, "[ OFFICIAL ] Arma 3 GM Zeus by Bohemia Interactive (EU) #B", false, [1,17], "Zeus 16+1 Master Weferlingen (West)"],
-        ["85.190.155.168", 2502, "[ OFFICIAL ] Arma 3 GM COOP by Bohemia Interactive (EU) #C", false, [0,6], "COOP 06 Magnetized"],
-        ["164.132.204.126", 2402, "CodeFourGaming - King Of The Hill Infantry EU #5 -24/7 Day", false, [95,100], "King of the Hill by Sa-Matra (v13, Infantry)"],
-        ["212.22.93.26", 2302, "[RU] Rimas Role Play Altis| rimasrp.life", false, [136,155], "Rimas Life v2.6.1"],
-        ["164.68.110.159", 2402, "77th JSOC - EU 1 | Invade & Annex - Altis | APEX v1.13", false, [95,100], "Invade & Annex - 77th JSOC | Altis v1.31"]
-    ],
-    "official": [
-        ["85.190.155.159", 2302, "[ OFFICIAL ] Arma 3 CP by Bohemia Interactive (EU) #01", false, [1,12], "Combat Patrol"],
-        ["158.69.25.159", 2302, "[ OFFICIAL ] Arma 3 Zeus by Bohemia Interactive (USA) #02", false, [32,50], "Zeus 48+2 Master Stratis"],
-        ["85.190.155.168", 2302, "[ OFFICIAL ] Arma 3 GM TvT by Bohemia Interactive (EU) #A", false, [1,12], "Combat Patrol"],
-        ["85.190.155.168", 2402, "[ OFFICIAL ] Arma 3 GM Zeus by Bohemia Interactive (EU) #B", false, [1,17], "Zeus 16+1 Master Weferlingen (West)"],
-        ["85.190.155.168", 2502, "[ OFFICIAL ] Arma 3 GM COOP by Bohemia Interactive (EU) #C", false, [0,6], "COOP 06 Magnetized"]
-    ],
-    "gm": [
-        ["85.190.155.168", 2302, "[ OFFICIAL ] Arma 3 GM TvT by Bohemia Interactive (EU) #A", false, [1,12], "Combat Patrol"],
-        ["85.190.155.168", 2402, "[ OFFICIAL ] Arma 3 GM Zeus by Bohemia Interactive (EU) #B", false, [1,17], "Zeus 16+1 Master Weferlingen (West)"],
-        ["85.190.155.168", 2502, "[ OFFICIAL ] Arma 3 GM COOP by Bohemia Interactive (EU) #C", false, [0,6], "COOP 06 Magnetized"]
+    "results": [
+        {
+            "ip": "192.168.1.1",
+            "port": 2302,
+            "name": "Sum tin wong"
+        }
     ]
 }
