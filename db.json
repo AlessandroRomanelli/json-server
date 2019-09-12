@@ -2,6 +2,8 @@
     "count": 42956,
     "next": "http://launcher.frontline-mod.com:8000/servers/?battleye=&gm=&o=-players&page=2&password=",
     "previous": null,
+    "doesnt": "really matter",
+    "where": "the results field is",
     "results": [
         {
             "ip": "46.188.49.216",
