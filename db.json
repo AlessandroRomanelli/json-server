@@ -22,14 +22,25 @@
             }
         },
         {
-            "ip": "136.243.18.106",
-            "port": 2323,
-            "name": "[ETR] Joint Operation Server - UNS/ETR/BSO",
-            "players": 26,
-            "players_max": 47,
+            "ip": ["46.188.49.216", 2113],
+            "name": "TUSHINO Serious Games #2",
+            "players": [143, 192],
             "password": true,
-            "battleye": false,
-            "gm": false
+            "battleye": true,
+            "dlcs": [
+                {
+                    "active": true,
+                    "workshop-mod": false
+                },
+                {
+                    "active": true,
+                    "workshop-mod": true
+                },
+                {
+                    "active": false,
+                    "workshop-mod": false
+                }
+            ]
         },
         {
             "ip": "18.188.219.61",
