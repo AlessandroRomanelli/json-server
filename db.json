@@ -3,14 +3,22 @@
         {
             "ip": ["46.188.49.216", 2113],
             "name": "TUSHINO Serious Games #2",
-            "players": 143,
-            "players_max": 192,
+            "players": [143, 192],
             "password": true,
             "battleye": true,
             "dlcs": {
-                "gm": false,
-                "ww2": true,
-                "nam": false
+                "gm": {
+                    "active": true,
+                    "workshop-mod": false
+                },
+                "ww2": {
+                    "active": true,
+                    "workshop-mod": true
+                },
+                "nam":{
+                    "active": false,
+                    "workshop-mod": false
+                }
             }
         },
         {
