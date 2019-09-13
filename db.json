@@ -1,14 +1,17 @@
 {
     "results": [
         {
-            "ip": "46.188.49.216",
-            "port": 2113,
+            "ip": ["46.188.49.216", 2113],
             "name": "TUSHINO Serious Games #2",
             "players": 143,
             "players_max": 192,
             "password": true,
             "battleye": true,
-            "gm": false
+            "dlcs": {
+                "gm": false,
+                "ww2": true,
+                "nam": false
+            }
         },
         {
             "ip": "136.243.18.106",
